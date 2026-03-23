@@ -42,9 +42,9 @@ npm run dev
 
 This project is proprietary. All rights reserved.
 
-## Demo Video
+## Demo Preview
 
-[Watch the demo video](./public/Video%20Project%201.mp4)
+![Demo preview](./public/samnail1.png)
 
 ## ビルド
 
