@@ -42,6 +42,10 @@ npm run dev
 
 This project is proprietary. All rights reserved.
 
+## Demo Video
+
+[Watch the demo video](./public/Video%20Project%201.mp4)
+
 ## ビルド
 
 ```bash
